@@ -1,0 +1,8 @@
+# Not wanting to load any data files
+ChatGPT_project/*
+lecture_slides/*
+*.pdf
+*.ipynb
+*.csv
+*.png
+.idea/*
